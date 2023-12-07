@@ -4,4 +4,4 @@ Este curso está diseñado para que sus estudiantes logren comprender la infraes
 
 **Versión más reciente**: 2023-2 (Segundo semestre, 2023)
 
-> Toda información y recurso oficial del curso se encuentra disponible en el repositorio Syllabus de cada sección ([Sección 1](https://github.com/IIC2513/Syllabus-S1), Sección 2) de esta organización y en Canvas.
+> Toda información y recurso oficial del curso se encuentra disponible en el repositorio Syllabus de cada sección ([Sección 1](https://github.com/IIC2513/Syllabus-S1), Sección 2) de esta organización y en Canvas[.](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
