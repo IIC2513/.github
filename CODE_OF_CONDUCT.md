@@ -1,85 +1,92 @@
-# Código de Conducta convenido para Contribuyentes
+# Código de Conducta de nuestro equipo
 
-## Nuestro compromiso
+## Propósito
 
-Nosotros, como miembros, contribuyentes y administradores nos comprometemos a hacer de la participación en nuestra comunidad una experiencia libre de acoso para todo el mundo, independientemente de la edad, dimensión corporal, minusvalía visible o invisible, etnicidad, características sexuales, identidad y expresión de género, nivel de experiencia, educación, nivel socio-económico, nacionalidad, apariencia personal, raza, religión, o identidad u orientación sexual.
-
-Nos comprometemos a actuar e interactuar de maneras que contribuyan a una comunidad abierta, acogedora, diversa, inclusiva y sana.
-
-## Nuestros estándares
-
-Ejemplos de comportamiento que contribuyen a crear un ambiente positivo para nuestra comunidad:
-
-* Demostrar empatía y amabilidad ante otras personas
-* Respeto a diferentes opiniones, puntos de vista y experiencias
-* Dar y aceptar adecuadamente retroalimentación constructiva
-* Aceptar la responsabilidad y disculparse ante quienes se vean afectados por nuestros errores, aprendiendo de la experiencia
-* Centrarse en lo que sea mejor no sólo para nosotros como individuos, sino para la comunidad en general
-
-Ejemplos de comportamiento inaceptable:
-
-* El uso de lenguaje o imágenes sexualizadas, y aproximaciones o
-  atenciones sexuales de cualquier tipo
-* Comentarios despectivos (_trolling_), insultantes o derogatorios, y ataques personales o políticos
-* El acoso en público o privado
-* Publicar información privada de otras personas, tales como direcciones físicas o de correo
-  electrónico, sin su permiso explícito
-* Otras conductas que puedan ser razonablemente consideradas como inapropiadas en un
-  entorno profesional
-
-## Aplicación de las responsabilidades
-
-Los administradores de la comunidad son responsables de aclarar y hacer cumplir nuestros estándares de comportamiento aceptable y tomarán acciones apropiadas y correctivas de forma justa en respuesta a cualquier comportamiento que consideren inapropiado, amenazante, ofensivo o dañino.
-
-Los administradores de la comunidad tendrán el derecho y la responsabilidad de eliminar, editar o rechazar comentarios, _commits_, código, ediciones de páginas de wiki, _issues_ y otras contribuciones que no se alineen con este Código de Conducta, y comunicarán las razones para sus decisiones de moderación cuando sea apropiado.
+Este documento define cómo nuestro equipo colaborará, se comunicará, resolverá problemas y se apoyará durante el desarrollo del proyecto del curso IIC2513 Tecnologías y Aplicaciones Web. Su objetivo es que nuestro equipo reflexione sobre posibles situaciones que podrían ocurrir durante el semestre y que podamos abordarlas desde el respeto, la responsabilidad y la comprensión.
 
 ## Alcance
 
-Este código de conducta aplica tanto a espacios del proyecto como a espacios públicos donde un individuo esté en representación del proyecto o comunidad. Ejemplos de esto incluyen el uso de la cuenta oficial de correo electrónico, publicaciones a través de las redes sociales oficiales, o presentaciones con personas designadas en eventos en línea o no.
+Aplica a todas las actividades relacionadas con el desarrollo del proyecto del curso, tales como:
 
-## Aplicación
+* Reuniones de planificación, diseño e implementación.
+* Desarrollo y revisión de código.
+* Escritura de documentación e implementación de entregas.
+* Interacción con el equipo docente, otros grupos del curso y entre estudiantes del equipo
 
-Instancias de comportamiento abusivo, acosador o inaceptable de otro modo podrán ser reportadas a los administradores de la comunidad responsables del cumplimiento a través de [aaossa@ing.puc.cl](mailto:aaossa@ing.puc.cl). Todas las quejas serán evaluadas e investigadas de una manera puntual y justa.
+## Normas de Comunicación
 
-Todos los administradores de la comunidad están obligados a respetar la privacidad y la seguridad de quienes reporten incidentes.
+### Canales de comunicación principales
+Contaremos con tres canales de comunicación efectiva:
+* Telegram: para comunicacion directa con el ayudante a cargo del grupo.
+* Discord: para sostener reuniones entre los integrantes del grupo con distintos fines.
+* Whatsapp: para la coordinación rápida entre los integrantes, reportes de avance, entre otras cosas.
 
-## Guías de Aplicación
+### Reuniones de equipo
+Se decidió realizar una reunión al comienzo de cada entrega, con el fin de planificar la carga de trabajo asignada a cada integrante, además de definir los plazos correspondientes. Estas reuniones serán coordinadas vía WhatsApp y realizadas en Discord.
 
-Los administradores de la comunidad seguirán estas Guías de Impacto en la Comunidad para determinar las consecuencias de cualquier acción que juzguen como un incumplimiento de este Código de Conducta:
+Por otra parte, luego de cada entrega se debe realizar una reunión para recibir el feedback del ayudante asignado al grupo. Estas reuniones se llevarán a cabo en la plataforma que el ayudante estime conveniente.
 
-### 1. Corrección
+### Cuando trabajar en el proyecto
+La disposición de tiempo será responsabilidad de cada integrante, en concordancia con la carga de trabajo asignada a cada uno, siempre y cuando esto no entorpezca el desarrollo de otros aspectos de la entrega (por ejemplo, cuando para realizar una parte del proyecto sea necesario que otra esté lista previamente).
 
-**Impacto en la Comunidad**: El uso de lenguaje inapropiado u otro comportamiento considerado no profesional o no acogedor en la comunidad.
+## ¿Qué Haremos Cuando...?
+### Enfermedad o emergencia de salud 
+1. Si YO me enfermo, avisaré a mi equipo lo antes posible.
+2. Indicaré de manera clara el tiempo probable de mi ausencia.
+3. Comunicaré a mi equipo las tareas más urgentes que tenía asignadas, para que puedan distribuirlas.
+4. Como equipo, daremos aviso al ayudante asignado, con el fin de solicitar consideración.
+5. Si hay certificado médico, informaré al ayudante de bienestar y haré las gestiones correspondientes en la DiPre.
+6. Si logro recuperarme antes de la fecha de entrega, retomaré mis tareas restantes y me pondré a disposición para aliviar la carga de mis compañeros.
 
-**Consecuencia**: Un aviso escrito y privado por parte de los administradores de la comunidad, proporcionando claridad alrededor de la naturaleza de este incumplimiento y una explicación de por qué el comportamiento es inaceptable. Una disculpa pública podría ser solicitada.
+### Carga academica excesiva / Tope de evaluaciones
+1. Si YO tengo una semana académicamente muy cargada o un tope de evaluaciones en la fecha de entrega, debo avisar con tiempo a los integrantes del grupo.
+2. Se buscará distribuir la carga de manera que pueda trabajar en una etapa más temprana o más tardía de la entrega, según convenga, evitando sobrecargarme.
+3. Si esta redistribución no es posible, trabajaré menos en esta entrega y se compensará con una mayor asignación en futuras entregas.
 
-### 2. Aviso
+### Indisponibilidad prevista (viajes, vacaciones)
+1. Si YO tengo un viaje planificado durante el semestre, debo avisar desde un inicio a mis compañeros.
+2. De esta forma, la carga del proyecto completo se distribuirá en base a esta planificación.
 
-**Impacto en la Comunidad**: Un incumplimiento causado por un único incidente o por una cadena de acciones.
+### Emergencia personal no planificadas
+1. Si YO no puedo trabajar porque me pasó algo (por ejemplo, una emergencia familiar o un problema personal grave).
+2. Avisaré a mi equipo lo antes posible, explicando de forma general la situación.
+3. Mi equipo redistribuirá mis tareas si es necesario y dará aviso al ayudante asignado para dejar constancia.
+4. Si la situación se extiende, el equipo podrá coordinar con el ayudante una posible reestructuración de roles o plazos.
 
-**Consecuencia**: Un aviso con consecuencias por comportamiento prolongado. No se interactúa con las personas involucradas, incluyendo interacción no solicitada con quienes se encuentran aplicando el Código de Conducta, por un periodo especificado de tiempo. Esto incluye evitar las interacciones en espacios de la comunidad, así como a través de canales externos como las redes sociales. Incumplir estos términos puede conducir a una expulsión temporal o permanente.
+### Retraso en entrega / Incumplimiento de plazo
+1. Si como equipo no tenemos el entregable listo para el día de la entrega.
+2. Evaluaremos qué partes del entregable pueden completarse y priorizaremos lo esencial.
+3. Comunicaremos la situación al ayudante asignado con la debida anticipación.
+4. De ser necesario, y si al menos 2 miembros del grupo estan de acuerdo, se usaran uno o mas de los cupones de atraso en disposicion.
 
-### 3. Expulsión temporal
+### Persona no ubicable o contactable (no responde)
 
-**Impacto en la Comunidad**: Una serie de incumplimientos de los estándares de la comunidad, incluyendo comportamiento inapropiado continuo.
+1. Si como equipo no conseguimos respuesta de un miembro para asignar responsabilidades o confirmar que está progresando.
+2. Intentaremos contactarlo por todos los medios disponibles (WhatsApp, Discord, Telegram).
+3. Si después de un tiempo razonable no hay respuesta, informaremos al ayudante asignado para dejar constancia.
+4. Redistribuiremos las tareas críticas para no afectar el avance general del proyecto.
+5. Cada uno sera libre de responder a su criterio la evaluacion de pares. 
 
-**Consecuencia**: Una expulsión temporal de cualquier forma de interacción o comunicación pública con la comunidad durante un intervalo de tiempo especificado. No se permite interactuar de manera pública o privada con las personas involucradas, incluyendo interacciones no solicitadas con quienes se encuentran aplicando el Código de Conducta, durante este periodo. Incumplir estos términos puede conducir a una expulsión permanente.
+### Diferencias de opinión
 
-### 4. Expulsión permanente
+1. Si como equipo no logramos llegar a un acuerdo sobre una decisión de diseño del proyecto.
+2. Cada integrante podrá exponer sus argumentos de forma respetuosa.
+3. Se votará o decidirá en base al consenso mayoritario, priorizando la eficiencia del proyecto.
+4. En caso de desacuerdo persistente, se pedirá la opinión del ayudante para resolver la disputa.
 
-**Impacto en la Comunidad**: Demostrar un patrón sistemático de incumplimientos de los estándares de la comunidad, incluyendo conductas inapropiadas prolongadas en el tiempo, acoso de individuos, o agresiones o menosprecio a grupos de individuos.
+### Riesgo de no completar el proyecto
+1. Si como equipo creemos que podríamos no llegar con el proyecto listo a la última entrega.
+2. Revisaremos nuestra planificación y priorizaremos los requisitos mínimos para aprobar.
+3. Informaremos al ayudante de inmediato para recibir orientación.
+4. Redistribuiremos la carga o ajustaremos el alcance del proyecto según las recomendaciones recibidas.
 
-**Consecuencia**: Una expulsión permanente de cualquier tipo de interacción pública con la comunidad del proyecto.
+### Manteniendo la integridad académica
+1. Si YO encuentro código que aparentemente fue desarrollado por una IA pero no se referenció.
+2. Lo comunicaré inmediatamente al equipo.
+3. Se decidirá en conjunto cómo corregir la situación, asegurando la transparencia y citando correctamente las fuentes.
+4. Si el problema persiste o genera conflicto, se informará al ayudante correspondiente.
 
-## Atribución
-
-Este Código de Conducta es una adaptación del [Contributor Covenant][homepage], versión 2.0,
-disponible en https://www.contributor-covenant.org/es/version/2/0/code_of_conduct.html
-
-Las Guías de Impacto en la Comunidad están inspiradas en la [escalera de aplicación del código de conducta de Mozilla](https://github.com/mozilla/diversity).
-
-[homepage]: https://www.contributor-covenant.org
-
-Para respuestas a las preguntas frecuentes de este código de conducta, consulta las FAQ en
-https://www.contributor-covenant.org/faq. Hay traducciones disponibles en https://www.contributor-covenant.org/translations
-
+## Firma de cada integrante del grupo
+Ignacio Parra Spoerer: I.P.S
+Javier Marmolejo Calderón: J.M.C
+Pau Rovira Bórquez: P.R.B
